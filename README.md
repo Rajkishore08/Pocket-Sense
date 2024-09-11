@@ -61,13 +61,6 @@ Detailed API documentation is available in the project wiki.
 3. Development of a mobile app for on-the-go financial management
 4. Introduction of gamification elements to encourage regular platform use
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
